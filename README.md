@@ -1,1 +1,2 @@
 # Asm_Part1_NguyenManhLuc_BH01692
+[ASM_PART1_NGUYENMANHLUC_BH01692_SLIDE.pdf](https://github.com/user-attachments/files/17422698/ASM_PART1_NGUYENMANHLUC_BH01692_SLIDE.pdf)
